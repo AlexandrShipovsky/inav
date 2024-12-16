@@ -1,0 +1,1 @@
+target_stm32f427xg(CSKY_AVEGA_LITE)
